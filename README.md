@@ -1,10 +1,10 @@
 ### Hi there 👋！
 This is Ziheng wang, a post doc in Japan. Now I am working on medicial image segmentation, if you want to cooperate with me or have good idea, let me know please.
 
-大佬你好， 我在医学系搞图像分割，求大佬带我飞。
-
 こんにちは、王です。 私は、東北大学大学院医工学研究科で、1）医用画像のセグメンテーション、2）生体の時系列データ解析に関する研究に従事しています。 学部生でも、ゼミ生でも、博士課程の学生でも、一緒に研究に取り組むことができます。
 では、よろしくお願いします。
+
+大佬你好， 我在医学系搞图像分割，求大佬带我飞。
 
 ![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=azusakou&show_icons=true&theme=radical)
 
