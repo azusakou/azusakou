@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋！
+
+
+
+![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=azusakou&show_icons=true&theme=radical)
 
 <!--
 **azusakou/azusakou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
