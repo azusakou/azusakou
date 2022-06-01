@@ -1,10 +1,10 @@
 ### Hi there 👋！
-This is Wang, a postdoc in Tohoku University. Now I am working on time series data analysis (EEG, COP, etc.) and medicial image segmentation, if you want to cooperate with me, let me know please.
+This is Wang, now I am working on time series data analysis (COP, etc.) and medicial image segmentation, if you want to cooperate with me, let me know please.
 
 こんにちは、王です。 私は、東北大学大学院医学系研究科で、1）医用画像のセグメンテーション、2）生体の時系列データ解析に関する研究に従事しています。 学部生でも、ゼミ生でも、博士課程の学生でも、一緒に研究に取り組むことができます。
 では、よろしくお願いします。
 
-大佬你好，我是小白，请大佬带我飞。
+大佬你好，我是萌新，请大佬带我飞。
 
 ![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=azusakou&show_icons=true&theme=radical)
 
