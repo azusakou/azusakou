@@ -1,4 +1,9 @@
 ### Hi there 👋！
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 This is Wang, now I am mainly working on medicine-related tasks, if you want to cooperate with me, let me know please.
 
 こんにちは、王です。 私は、東北大学大学院医工学研究科で、学部生でも、ゼミ生でも、博士課程の学生でも、一緒に研究に取り組むことができます。
